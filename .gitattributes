@@ -1,0 +1,3 @@
+*.doc  diff=catdoc
+*.docx diff=pandoc
+
