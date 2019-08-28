@@ -140,7 +140,7 @@ From 05/2013 until now: **Booked.net** ([https://www.booked.net/](https://www.bo
 
     Platforms: Windows, Linux, FreeBSD, Android, Mac OS X
 
-    Implements:
+    Classes:
       - core (strings. datetime, utils)
       - cryptography (OpenSSL, CRC, random, GUIDs, PKCS#11)
       - databases (MySQL)
