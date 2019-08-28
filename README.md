@@ -21,12 +21,14 @@
 
 ### Education:
 
-        2002-2008: State University of Information and Communication Technologies
+2002-2008: State University of Information and Communication Technologies
+
         Faculty:   Information security
         Specialty: Protection of computers and computer networks
         Kiev, Ukraine
 
-        1993-1998: Kiev College of Communication
+1993-1998: Kiev College of Communication
+
         Faculty:   Automatic telecommunication
         Specialty: Automatic telecommunication
         Kiev, Ukraine
