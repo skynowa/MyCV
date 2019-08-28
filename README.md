@@ -122,6 +122,7 @@ From 05/2013 until now: **Booked.net** ([https://www.booked.net/](https://www.bo
           Android
         - Experience in writing development support tools such as parsers, profilers,
           automated testing frameworks etc
+        - Writing documentation (Doxygen, Markdown)
 
 
 ### Tools:
