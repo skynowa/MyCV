@@ -36,29 +36,26 @@
 
 ### Work Experience:
 
-From 05/2013 until now: [_confidential_]
+From 05/2013 until now: **Booked.net** ([https://www.booked.net/](https://www.booked.net/))
 
-        Position:
-                C++ developer (Linux, FreeBSD)
+        Position: C++ developer (Linux, FreeBSD)
 
         Projects:
                 Development and supporting web server for hotel reservations, porting to Linux
                 (C++11/14, STL, POSIX, LibXml2, cURL, MySQL, XSLT, JS/jQuery, CMake)
 
 
-06/2012 - 05/2013: **Wifi-free** ([http://wifi-free.co](http://wifi-free.com/)[m](http://wifi-free.com/)), full remote time
+06/2012 - 05/2013: **Wifi-free** ([http://wifi-free.com/](http://wifi-free.com/)), full remote time
 
-        Position:
-                Senior C/C++ developer (cross-platform)
+        Position: Senior C/C++ developer (cross-platform)
 
         Projects:
                 VPN provider (Qt 4/5, POSIX, OpenSSL)
 
 
-01/2012 - 05/2012: **Kiev Software Factory, Ltd** ([http://ksfltd.com](http://ksfltd.com/))
+01/2012 - 05/2012: **Kiev Software Factory, Ltd** ([https://ksftech.com/](https://ksftech.com/))
 
-        Position:
-                Senior C/C++ developer (Linux, Solaris)
+        Position: Senior C/C++ developer (Linux, Solaris)
 
         Projects:
                 "Document Server for Internet" (porting from Solaris x86 to Linux x64,
@@ -67,19 +64,17 @@ From 05/2013 until now: [_confidential_]
 
 01/2011 - 01/2012: **ExMedia Soft** ([http://exmediasoft.com](http://exmediasoft.com/))
 
-        Position:
-                Senior C/C++ developer (FreeBSD, Linux)
+        Position: Senior C/C++ developer (FreeBSD, Linux)
 
         Projects:
-                - Administrative console for DB (Qt, Boost, MySQL), reports
+                - Administrative CMS for DB (Qt, Boost, MySQL), reports
                 - CGI scripts (ANSI C99, STL, cURL, PCRE, OpenSSL, MySQL)
                 - xLib (https://bitbucket.org/skynowa/xlib/overview)
 
 
-09/2007 - 11/2010: **UNIX Group** ([http://www.yug.com.ua](http://www.yug.com.ua/))
+09/2007 - 11/2010: **UNIX Group** ([https://yug.com.ua/](https://yug.com.ua/))
 
-        Position:
-                C++ developer (Windows, Linux)
+        Position: Middle C++ developer (Windows, Linux)
 
         Projects:
                 - Accounting system of eToken Aladdin keys, PKCS#11
@@ -90,9 +85,9 @@ From 05/2013 until now: [_confidential_]
 
 07/2001 - 08/2007: **TK-Textile**
 
-        Position:
-                - C++/VB/JS/HTML/CSS developer
-                - DevOps
+        Position: Junior C++/VB/JS developer (Windows)
+
+        Projects: Database management
 
 
 ### Professional Skills:
