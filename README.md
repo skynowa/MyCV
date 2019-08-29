@@ -25,8 +25,8 @@ From 05/2013 until now: **Booked.net** ([https://www.booked.net/](https://www.bo
 
     Position: C++ developer (Linux, FreeBSD)
 
-    Projects: Development and supporting web server for hotel reservations, porting to Linux
-              (C++11/14, STL, POSIX, LibXml2, cURL, MySQL, XSLT, JS/jQuery, CMake)
+    Projects: Development and supporting web server for hotel reservations,
+              porting to Linux (C++11/14/17, STL, POSIX, LibXml2, cURL, MySQL, XSLT, JS/jQuery)
 
 
 06/2012 - 05/2013: **Wifi-free** ([http://wifi-free.com/](http://wifi-free.com/)), full remote time
