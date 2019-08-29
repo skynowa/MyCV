@@ -26,7 +26,8 @@ From 05/2013 until now: **Booked.net** ([https://www.booked.net/](https://www.bo
     Position: C++ developer (Linux, FreeBSD)
 
     Projects: Development and supporting web server for hotel reservations,
-              porting to Linux (C++11/14/17, STL, POSIX, LibXml2, cURL, MySQL, XSLT, JS/jQuery)
+              porting to Linux (C++11/14/17, STL, POSIX, LibXml2, cURL, MySQL, XSLT,
+              JS/jQuery)
 
 
 06/2012 - 05/2013: **Wifi-free** ([http://wifi-free.com/](http://wifi-free.com/)), full remote time
@@ -102,7 +103,7 @@ From 05/2013 until now: **Booked.net** ([https://www.booked.net/](https://www.bo
     - Skills with databases (SQLite, MySQL)
     - Skills in working with PKCS #11, encryption algorithms OpenSSL (RSA, AES, Blowfish)
     - Experience in porting applications 32bit/64bit, Unix/Windows platforms
-    - Development using Qt 4/5 (core, QML/widgets, database, network, IPC, MT, serial ports)
+    - Development using Qt 4/5 (core, widgets, database, network, IPC, MT, serial ports)
     - CUDA (thrust)
     - Android NDK
     - Unit testing (GTest, CppTest) and TDD
@@ -149,8 +150,8 @@ From 05/2013 until now: **Booked.net** ([https://www.booked.net/](https://www.bo
       - logging (file, system log, tracer)
       - network (TCP, UDP, DNS, HTTP, POP3, SMTP, CGI, SSH2)
       - patterns
-      - MT and IPC (atomics, mutex, semaphore, event, condition variable, thread, pool thread,
-        process, signal)
+      - MT and IPC (atomics, mutex, semaphore, event, condition variable, thread,
+        pool thread, process, signal)
       - unit testing (test manager, unit tests)
 
 
