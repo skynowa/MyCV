@@ -40,8 +40,8 @@ From 05/2013 until now: **Booked.net** ([https://www.booked.net/](https://www.bo
 
     Position: Senior C/C++ developer (Linux, Solaris)
 
-    Projects: "Document Server for Internet" (porting from Solaris x86 to Linux x64,
-               write OS depended code, implement unit tests)
+    Projects: Document Server for Internet (porting from Solaris x86 to Linux x64,
+              write OS depended code, implement unit tests)
 
 
 01/2011 - 01/2012: **ExMedia Soft** ([http://exmediasoft.com](http://exmediasoft.com/))
