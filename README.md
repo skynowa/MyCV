@@ -19,21 +19,6 @@
     C/C++ Developer (Linux, FreeBSD, Solaris, Android NDK)
 
 
-### Education:
-
-2002-2008: **State University of Information and Communication Technologies**
-
-    Faculty:   Information security
-    Specialty: Protection of computers and computer networks
-    Kiev, Ukraine
-
-1993-1998: **Kiev College of Communication**
-
-    Faculty:   Automatic telecommunication
-    Specialty: Automatic telecommunication
-    Kiev, Ukraine
-
-
 ### Work Experience:
 
 From 05/2013 until now: **Booked.net** ([https://www.booked.net/](https://www.booked.net/))
@@ -85,6 +70,21 @@ From 05/2013 until now: **Booked.net** ([https://www.booked.net/](https://www.bo
     Position: Junior C++/VB/JS developer (Windows)
 
     Projects: Database management
+
+
+### Education:
+
+2002-2008: **State University of Information and Communication Technologies**
+
+    Faculty:   Information security
+    Specialty: Protection of computers and computer networks
+    Kiev, Ukraine
+
+1993-1998: **Kiev College of Communication**
+
+    Faculty:   Automatic telecommunication
+    Specialty: Automatic telecommunication
+    Kiev, Ukraine
 
 
 ### Professional Skills:
