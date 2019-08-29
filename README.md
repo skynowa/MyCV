@@ -1,7 +1,7 @@
 # Sergei Shapka
 
 
-### Personal Information:
+### Personal Information
 
     Gender:         Male
     Date of birth:  July 31, 1978
@@ -14,12 +14,12 @@
     LinkedIn:       https://www.linkedin.com/in/sergei-shapka-82189a53
 
 
-### Objective:
+### Objective
 
     C/C++ Developer (Linux, FreeBSD, Solaris, Android NDK)
 
 
-### Work Experience:
+### Work Experience
 
 From 05/2013 until now: **Booked.net** ([https://www.booked.net/](https://www.booked.net/))
 
@@ -73,7 +73,7 @@ From 05/2013 until now: **Booked.net** ([https://www.booked.net/](https://www.bo
     Projects: Database management
 
 
-### Education:
+### Education
 
 2002-2008: **State University of Information and Communication Technologies**
 
@@ -88,7 +88,7 @@ From 05/2013 until now: **Booked.net** ([https://www.booked.net/](https://www.bo
     Kiev, Ukraine
 
 
-### Professional Skills:
+### Professional Skills
 
     - C/C++ (C99, C++03/11/14/17)
     - OOP, OOD principles
@@ -123,19 +123,19 @@ From 05/2013 until now: **Booked.net** ([https://www.booked.net/](https://www.bo
     - Writing documentation (Doxygen, Markdown)
 
 
-### Tools:
+### Tools
 
     VS Code, Eclipse, CodeLite, Vim, Sublime
 
 
-### Qt tools:
+### Qt tools
 
     QtCreator, Monkey Studio IDE
 
 10+ years of commercial development experience
 
 
-### Open source projects:
+### Open source projects
 
 **xLib** ([https://bitbucket.org/skynowa/xlib/overview](https://bitbucket.org/skynowa/xlib/overview))
 
@@ -155,13 +155,13 @@ From 05/2013 until now: **Booked.net** ([https://www.booked.net/](https://www.bo
       - unit testing (test manager, unit tests)
 
 
-### Foreign Languages:
+### Foreign Languages
 
     English: Intermediate level
     Russian: Native
 
 
-### Personal Skills:
+### Personal Skills
 
     - responsible and hard-working person
     - good decision making, administrative
@@ -178,7 +178,7 @@ From 05/2013 until now: **Booked.net** ([https://www.booked.net/](https://www.bo
     - experience in reviewing code
 
 
-### Expectations:
+### Expectations
 
     - Well defined workflow, good coding practices, documentation & requirements
     - Flexible work schedule, WFH possibility
