@@ -1,6 +1,5 @@
 # Sergei Shapka
 
-
 ### Personal Information
 
     Gender:         Male
@@ -13,11 +12,9 @@
     Skype:          skynowa777
     LinkedIn:       https://www.linkedin.com/in/sergei-shapka-82189a53
 
-
 ### Objective
 
     C/C++ Developer (Linux, FreeBSD, Solaris, Android NDK)
-
 
 ### Work Experience
 
@@ -29,13 +26,11 @@ From 05/2013 until now: **Booked.net** ([https://www.booked.net/](https://www.bo
               porting to Linux (C++11/14/17, STL, POSIX, LibXml2, cURL, MySQL, XSLT,
               JS/jQuery)
 
-
 06/2012 - 05/2013: **Wifi-free** ([http://wifi-free.com/](http://wifi-free.com/)), full remote time
 
     Position: Senior C/C++ developer (cross-platform)
 
     Projects: VPN provider (Qt 4/5, POSIX, OpenSSL)
-
 
 01/2012 - 05/2012: **Kiev Software Factory, Ltd** ([https://ksftech.com/](https://ksftech.com/))
 
@@ -43,7 +38,6 @@ From 05/2013 until now: **Booked.net** ([https://www.booked.net/](https://www.bo
 
     Projects: Document Server for Internet (porting from Solaris x86 to Linux x64,
               write OS depended code, implement unit tests)
-
 
 01/2011 - 01/2012: **ExMedia Soft** ([http://exmediasoft.com](http://exmediasoft.com/))
 
@@ -53,7 +47,6 @@ From 05/2013 until now: **Booked.net** ([https://www.booked.net/](https://www.bo
       - Administrative CMS for DB (Qt, Boost, MySQL), reports
       - CGI scripts (ANSI C99, STL, cURL, PCRE, OpenSSL, MySQL)
       - xLib (https://bitbucket.org/skynowa/xlib/overview)
-
 
 09/2007 - 11/2010: **UNIX Group** ([https://yug.com.ua/](https://yug.com.ua/))
 
@@ -65,13 +58,11 @@ From 05/2013 until now: **Booked.net** ([https://www.booked.net/](https://www.bo
       - IIS authentication filter
       - POP3/SMTP client
 
-
 07/2001 - 08/2007: **TK-Textile**
 
     Position: Junior C++/VB/JS developer (Windows)
 
     Projects: Database management
-
 
 ### Education
 
@@ -86,7 +77,6 @@ From 05/2013 until now: **Booked.net** ([https://www.booked.net/](https://www.bo
     Faculty:   Automatic telecommunication
     Specialty: Automatic telecommunication
     Kiev, Ukraine
-
 
 ### Professional Skills
 
@@ -122,18 +112,15 @@ From 05/2013 until now: **Booked.net** ([https://www.booked.net/](https://www.bo
       automated testing frameworks etc
     - Writing documentation (Doxygen, Markdown)
 
-
 ### Tools
 
     VS Code, Eclipse, CodeLite, Vim, Sublime
-
 
 ### Qt tools
 
     QtCreator, Monkey Studio IDE
 
 10+ years of commercial development experience
-
 
 ### Open source projects
 
@@ -154,12 +141,10 @@ From 05/2013 until now: **Booked.net** ([https://www.booked.net/](https://www.bo
         pool thread, process, signal)
       - unit testing (test manager, unit tests)
 
-
 ### Foreign Languages
 
     English: Intermediate level
     Russian: Native
-
 
 ### Personal Skills
 
@@ -176,7 +161,6 @@ From 05/2013 until now: **Booked.net** ([https://www.booked.net/](https://www.bo
     - ability to work at the most phases of software analysis and programming
     - self-management skills
     - experience in reviewing code
-
 
 ### Expectations
 
