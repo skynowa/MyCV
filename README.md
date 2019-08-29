@@ -1,1 +1,0 @@
-/home/skynowa/Projects/MyCV_wiki/README.md
