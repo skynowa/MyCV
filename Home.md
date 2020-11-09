@@ -1,1 +1,1 @@
-/home/skynowa/Projects/MyCV_wiki/Home.md
+/home/skynowa/Projects/MyCV.wiki/Home.md
