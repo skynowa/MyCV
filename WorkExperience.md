@@ -1,5 +1,8 @@
-#--------------------------------------------------------------------------------------------------
-Booked.net
+# WorkExperience
+
+-----
+
+## Booked.net
 
 From 05/2013 until now: Booked.net - hotel booking service
 		Position:
@@ -45,13 +48,13 @@ I working with such as libraries (C++11/14):
 - Make, CMake, bash scripts
 - Static analyzer's checks
 
-
 ::::: CVS :::::
 Git
 
+-----
 
+## KSF
 
-#--------------------------------------------------------------------------------------------------
 01/2012 - 05/2012: Kiev Software Factory, Ltd (http://ksfltd.com),
     C/C++ developer (Linux, Solaris).
 Projects:
